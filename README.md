@@ -23,5 +23,13 @@ Also Rust hobbyist (TUI tools), Neovim + ZMK keyboard tinkerer.
 
 ---
 
-![stats](https://github-readme-stats.vercel.app/api?username=evgeniiPerov&show_icons=true&theme=tokyonight)
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evgeniiPerov&layout=compact&theme=tokyonight)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white)
