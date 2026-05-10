@@ -1,5 +1,7 @@
 ### Hi, I'm Evgenii 👋
 
+![views](https://komarev.com/ghpvc/?username=evgeniiPerov&color=blueviolet&style=flat)
+
 Senior Frontend Architect @ Oriflame · Prague 🇨🇿
 
 Full-stack engineer. Backend: NestJS + GraphQL + PostgreSQL.
@@ -33,3 +35,17 @@ Also Rust hobbyist (TUI tools), Neovim + ZMK keyboard tinkerer.
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white)
+
+---
+
+#### Activity
+
+![graph](https://github-readme-activity-graph.vercel.app/graph?username=evgeniiPerov&theme=tokyo-night&hide_border=true)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=evgeniiPerov&theme=tokyonight&no-frame=true&column=7)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/evgeniiPerov/evgeniiPerov/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/evgeniiPerov/evgeniiPerov/output/github-snake.svg" />
+  <img alt="github snake" src="https://raw.githubusercontent.com/evgeniiPerov/evgeniiPerov/output/github-snake.svg" />
+</picture>
